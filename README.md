@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning K8s network and JUC.
-- 🤔 I’m looking for help with distributed experience.
+- 🤔 I’m looking for help with distributed development experiences.
 - 💬 Ask me about anything
 - 📫 How to reach me: [Blog] https://qqtim.club
 
