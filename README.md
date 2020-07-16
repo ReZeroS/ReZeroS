@@ -14,7 +14,7 @@ I am a developer based in China/ShangHai, specializing in building websites and 
 <a href="https://github.com/rezeros/zerobox">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zerobox&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/rezeros/zerobox">
+<a href="https://github.com/rezeros/leetcode">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
