@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+I am a developer based in China/ShangHai, specializing in building websites and applications.
 
 - 🌱 I’m currently learning K8s network and JUC.
 - 🤔 I’m looking for help with distributed development experiences.
