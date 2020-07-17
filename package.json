@@ -1,0 +1,25 @@
+{
+  "name": "rezeros",
+  "version": "1.0.0",
+  "description": "I am a developer based in China/ShangHai, specializing in building websites and applications.",
+  "main": "update-readme.js",
+  "scripts": {
+    "update:readme": "node update_readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezeros/rezeros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezeros/rezeros/issues"
+  },
+  "homepage": "https://github.com/rezeros/rezeros#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0",
+    "markdown-table": "^2.0.0"
+  }
+}
