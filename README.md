@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I am a developer based in China/ShangHai, specializing in building websites and applications.
+  I am a developer based in China/ShangHai, specializing in building webapp and funny tools.
   
   - 🌱 I’m currently learning K8s network and JUC.
   - 🤔 I’m looking for help with distributed development experiences.
