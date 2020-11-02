@@ -10,7 +10,7 @@
   
   ![ReZero's github stats](https://github-readme-stats.vercel.app/api?username=rezeros&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
-  
+  <div>
   <a href="https://github.com/rezeros/zit">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zit&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
@@ -20,13 +20,14 @@
   <a href="https://github.com/rezeros/leetcode">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
-<div></div>
-## My Followers ([15](https://github.com/ReZeroS?tab=followers))
-<div></div>
-| <img src="https://avatars1.githubusercontent.com/u/7304741?v=4" width="150" height="150" /> | <img src="https://avatars0.githubusercontent.com/u/32831059?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/11921874?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/6508763?v=4" width="150" height="150" /> |
-| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                               [kaue](https://github.com/kaue)                               |                          [opengineer](https://github.com/opengineer)                         |                         [webshell520](https://github.com/webshell520)                        |                       [dalinhuang99](https://github.com/dalinhuang99)                       |
+  </div>
 
-| <img src="https://avatars1.githubusercontent.com/u/22606989?v=4" width="150" height="150" /> | <img src="https://avatars3.githubusercontent.com/u/29314819?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/47686772?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> |
+## My Followers ([15](https://github.com/ReZeroS?tab=followers))
+
+| <img src="https://avatars2.githubusercontent.com/u/39089451?v=4" width="150" height="150" /> | <img src="https://avatars0.githubusercontent.com/u/1706296?v=4" width="150" height="150" /> | <img src="https://avatars1.githubusercontent.com/u/36908291?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/11921874?v=4" width="150" height="150" /> |
+| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+|                          [Mysteryzzz](https://github.com/Mysteryzzz)                         |                        [ronenhamias](https://github.com/ronenhamias)                        |                          [ljtnicehrx](https://github.com/ljtnicehrx)                         |                         [webshell520](https://github.com/webshell520)                        |
+
+| <img src="https://avatars1.githubusercontent.com/u/40146766?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/11344747?v=4" width="150" height="150" /> | <img src="https://avatars1.githubusercontent.com/u/22606989?v=4" width="150" height="150" /> | <img src="https://avatars2.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> |
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-|                            [ABUGADAY](https://github.com/ABUGADAY)                           |                       [johntakesnote](https://github.com/johntakesnote)                      |                               [bo-re](https://github.com/bo-re)                              |                            [nullbull](https://github.com/nullbull)                           |
+|                        [ProgramCodes](https://github.com/ProgramCodes)                       |                            [qistchan](https://github.com/qistchan)                           |                            [ABUGADAY](https://github.com/ABUGADAY)                           |                            [nullbull](https://github.com/nullbull)                           |
