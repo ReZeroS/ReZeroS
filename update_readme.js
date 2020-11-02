@@ -17,16 +17,16 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   
   
   <a href="https://github.com/rezeros">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezeros&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezeros&layout=compact" />
   </a>
   <a href="https://github.com/rezeros/zit">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zit&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zit&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
   <a href="https://github.com/rezeros/zerobox">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zerobox&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zerobox&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
   <a href="https://github.com/rezeros/leetcode">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
  
   
