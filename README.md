@@ -2,9 +2,8 @@
 
   I am a developer based in China/ShangHai, specializing in building websites and applications.
   
-  - 🌱 I’m currently learning K8s network and JUC.
-  - 🤔 I’m looking for help with distributed development experiences.
-  - 💬 Ask me about anything
+  - 🌱 I’m currently learning K8s network and JUC and looking for help with distributed high currency development experiences.
+  - 💬 Feel free to ask me about anything
   - 📫 How to reach me: [Blog] https://qqtim.club
   
   
