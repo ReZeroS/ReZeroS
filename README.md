@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I am a developer based in China/ShangHai, specializing in building websites and applications.
+  I am a developer based in China/Beijing, specializing in building websites and applications.
   
   - 🌱 I’m currently learning K8s network and JUC.
   - 🤔 I’m looking for help with distributed development experiences.
@@ -28,10 +28,10 @@
 
 ## My Followers ([15](https://github.com/ReZeroS?tab=followers))
 
-| <img src="https://avatars.githubusercontent.com/u/1706296?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/47686772?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11344747?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/26834294?v=4" width="150" height="150" /> |
-| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                        [ronenhamias](https://github.com/ronenhamias)                       |                              [bo-re](https://github.com/bo-re)                              |                           [qistchan](https://github.com/qistchan)                           |                          [HeerKirov](https://github.com/HeerKirov)                          |
+| <img src="https://avatars.githubusercontent.com/u/40146766?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11344747?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/26834294?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11921874?v=4" width="150" height="150" /> |
+| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|                       [ProgramCodes](https://github.com/ProgramCodes)                       |                           [qistchan](https://github.com/qistchan)                           |                          [HeerKirov](https://github.com/HeerKirov)                          |                        [webshell520](https://github.com/webshell520)                        |
 
-| <img src="https://avatars.githubusercontent.com/u/29314819?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/22606989?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/34676280?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/7304741?v=4" width="150" height="150" /> |
-| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-|                      [johntakesnote](https://github.com/johntakesnote)                      |                           [ABUGADAY](https://github.com/ABUGADAY)                           |                     [IceSeaKingFire](https://github.com/IceSeaKingFire)                     |                               [kaue](https://github.com/kaue)                              |
+| <img src="https://avatars.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/47686772?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/29314819?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/34676280?v=4" width="150" height="150" /> |
+| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|                           [nullbull](https://github.com/nullbull)                           |                              [bo-re](https://github.com/bo-re)                              |                      [johntakesnote](https://github.com/johntakesnote)                      |                     [IceSeaKingFire](https://github.com/IceSeaKingFire)                     |
