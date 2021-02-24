@@ -11,9 +11,15 @@
   ![ReZero's github stats](https://github-readme-stats.vercel.app/api?username=rezeros&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
   
+  
+  <a href="https://github.com/rezeros">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rezeros" />
+  </a>
+
   <a href="https://github.com/rezeros">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezeros&layout=compact&exclude_repo=rezeros,rezeros.github.io,blog-source&hide=css,html&langs_count=8" />
   </a>
+ 
   <a href="https://github.com/rezeros/zit">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zit&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
@@ -28,10 +34,10 @@
 
 ## My Followers ([15](https://github.com/ReZeroS?tab=followers))
 
-| <img src="https://avatars.githubusercontent.com/u/6508763?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/34676280?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/32831059?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/26834294?v=4" width="150" height="150" /> |
-| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                       [dalinhuang99](https://github.com/dalinhuang99)                      |                     [IceSeaKingFire](https://github.com/IceSeaKingFire)                     |                         [opengineer](https://github.com/opengineer)                         |                          [HeerKirov](https://github.com/HeerKirov)                          |
-
-| <img src="https://avatars.githubusercontent.com/u/40146766?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11344747?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/47686772?v=4" width="150" height="150" /> |
+| <img src="https://avatars.githubusercontent.com/u/26834294?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11344747?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/32831059?v=4" width="150" height="150" /> |
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                       [ProgramCodes](https://github.com/ProgramCodes)                       |                           [qistchan](https://github.com/qistchan)                           |                           [nullbull](https://github.com/nullbull)                           |                              [bo-re](https://github.com/bo-re)                              |
+|                          [HeerKirov](https://github.com/HeerKirov)                          |                           [nullbull](https://github.com/nullbull)                           |                           [qistchan](https://github.com/qistchan)                           |                         [opengineer](https://github.com/opengineer)                         |
+
+| <img src="https://avatars.githubusercontent.com/u/6508763?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/39089451?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/1706296?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/29314819?v=4" width="150" height="150" /> |
+| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|                       [dalinhuang99](https://github.com/dalinhuang99)                      |                         [Mysteryzzz](https://github.com/Mysteryzzz)                         |                        [ronenhamias](https://github.com/ronenhamias)                       |                      [johntakesnote](https://github.com/johntakesnote)                      |
