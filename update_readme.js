@@ -16,9 +16,15 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   ![ReZero's github stats](https://github-readme-stats.vercel.app/api?username=rezeros&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
   
+  
+  <a href="https://github.com/rezeros">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rezeros" />
+  </a>
+
   <a href="https://github.com/rezeros">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezeros&layout=compact&exclude_repo=rezeros,rezeros.github.io,blog-source&hide=css,html&langs_count=8" />
   </a>
+ 
   <a href="https://github.com/rezeros/zit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zit&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
