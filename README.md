@@ -17,13 +17,14 @@
   <a href="https://github.com/rezeros/zerobox">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=zerobox&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
+
   <a href="https://github.com/rezeros/leetcode">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
    <a href="https://github.com/rezeros/LLone">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=LLone&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
-
+![Alt](https://repobeats.axiom.co/api/embed/8399998901440d2bee975b807885f239c421af0d.svg "Repobeats analytics image")
   <a href="https://github.com/rezeros">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezeros&layout=compact&exclude_repo=rezeros,rezeros.github.io,blog-source&hide=css,html&langs_count=8" />
   </a>
@@ -35,10 +36,10 @@
 
 ## My Followers ([16](https://github.com/ReZeroS?tab=followers))
 
-| <img src="https://avatars.githubusercontent.com/u/39089451?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11344747?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/7304741?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11921874?v=4" width="150" height="150" /> |
-| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                         [Mysteryzzz](https://github.com/Mysteryzzz)                         |                           [qistchan](https://github.com/qistchan)                           |                               [kaue](https://github.com/kaue)                              |                        [webshell520](https://github.com/webshell520)                        |
-
-| <img src="https://avatars.githubusercontent.com/u/22606989?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/71453807?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/40146766?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> |
+| <img src="https://avatars.githubusercontent.com/u/32831059?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/34676280?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/11921874?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/71453807?v=4" width="150" height="150" /> |
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                           [ABUGADAY](https://github.com/ABUGADAY)                           |                        [MrRhuezzler](https://github.com/MrRhuezzler)                        |                       [ProgramCodes](https://github.com/ProgramCodes)                       |                           [nullbull](https://github.com/nullbull)                           |
+|                         [opengineer](https://github.com/opengineer)                         |                     [IceSeaKingFire](https://github.com/IceSeaKingFire)                     |                        [webshell520](https://github.com/webshell520)                        |                        [MrRhuezzler](https://github.com/MrRhuezzler)                        |
+
+| <img src="https://avatars.githubusercontent.com/u/6508763?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/36908291?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/28078734?v=4" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/40146766?v=4" width="150" height="150" /> |
+| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|                       [dalinhuang99](https://github.com/dalinhuang99)                      |                         [ljtnicehrx](https://github.com/ljtnicehrx)                         |                           [nullbull](https://github.com/nullbull)                           |                       [ProgramCodes](https://github.com/ProgramCodes)                       |
