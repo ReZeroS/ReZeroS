@@ -11,8 +11,7 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   - 🤔 I’m looking for help with distributed development experiences.
   - 💬 Ask me about anything
   - 📫 How to reach me: [Blog] https://qqtim.club
- 
-  ![Alt](https://repobeats.axiom.co/api/embed/8399998901440d2bee975b807885f239c421af0d.svg "Repobeats analytics image")
+
    
   
   ![ReZero's github stats](https://github-readme-stats.vercel.app/api?username=rezeros&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
