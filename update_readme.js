@@ -19,8 +19,8 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   <a href="https://github.com/rezeros/leetcode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
-   <a href="https://github.com/rezeros/LLone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=LLone&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+   <a href="https://github.com/rezeros/Jaxer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=Jaxer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 
 
