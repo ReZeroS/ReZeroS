@@ -8,7 +8,10 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   I am a developer based in China/Shanghai.
   
   - 📫 [Blog] https://rezeros.github.io
-
+  
+   <a href="https://github.com/rezeros/Jaxer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=Jaxer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
   <a href="https://github.com/rezeros/git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=git&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
@@ -19,9 +22,7 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   <a href="https://github.com/rezeros/leetcode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
-   <a href="https://github.com/rezeros/Jaxer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=Jaxer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
+
 
 
     ## My Followers ([${totalFollowers}](${followersUrl}))
@@ -85,7 +86,7 @@ async function run() {
     const shuffledFollowers = [...followers].sort(() => 0.5 - Math.random());
     const selected = shuffledFollowers.slice(0, 8).map((item) => {
       return {
-        profilePicture: `<img src="${item.avatar_url}" width="150" height="150" />`,
+        profilePicture: `<img src="${item.avatar_url}" width="50" height="50" />`,
         profileUrl: `[${item.login}](${item.html_url})`,
       };
     });
