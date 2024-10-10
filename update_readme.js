@@ -86,7 +86,7 @@ async function run() {
     const shuffledFollowers = [...followers].sort(() => 0.5 - Math.random());
     const selected = shuffledFollowers.slice(0, 8).map((item) => {
       return {
-        profilePicture: `<img src="${item.avatar_url}" width="50" height="50" />`,
+        profilePicture: `<img src="${item.avatar_url}" width="100" height="100" />`,
         profileUrl: `[${item.login}](${item.html_url})`,
       };
     });
