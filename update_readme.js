@@ -1,8 +1,7 @@
 const github = require('@actions/github');
 const core = require('@actions/core');
-const table = require('markdown-table');
-// forked from https://github.com/sorxrob/sorxrob
-function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
+const table = require('markdown-table'); 
+function renderREADME() {
   const readme = `### Hi there 👋
 
   I am a developer based in China/Shanghai.
@@ -22,74 +21,17 @@ function renderREADME(followersUrl, totalFollowers, selectedFollowers) {
   <a href="https://github.com/rezeros/leetcode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rezeros&repo=leetcode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
-
-
-
-    ## My Followers ([${totalFollowers}](${followersUrl}))
-    
-    ${generateTables(selectedFollowers)}`;
+`;
 
   return Buffer.from(readme.replace(/^ {4}/gm, '')).toString('base64');
 }
 
-function generateTables(followers) {
-  if (!followers.length) return;
-
-  if (followers.length > 4) {
-    const top = followers.slice(0, 4);
-    const bottom = followers.slice(4);
-
-    const tbl1 = table(
-      [top.map((i) => i.profilePicture), top.map((i) => i.profileUrl)],
-      {
-        align: top.map(() => 'c'),
-      }
-    );
-
-    const tbl2 = table(
-      [bottom.map((i) => i.profilePicture), bottom.map((i) => i.profileUrl)],
-      {
-        align: bottom.map(() => 'c'),
-      }
-    );
-
-    return `${tbl1}\n\n${tbl2}`;
-  }
-
-  return table(
-    [
-      followers.map((i) => i.profilePicture),
-      followers.map((i) => i.profileUrl),
-    ],
-    {
-      align: top.map(() => 'c'),
-    }
-  );
-}
 
 async function run() {
   try {
     const octokit = github.getOctokit(process.env.MY_PROFILE_TOKEN);
     const { data: user } = await octokit.rest.users.getAuthenticated();
 
-    const itemsPerPage = 100; // Max is 100
-    const noOfPages = Math.ceil(user.followers / itemsPerPage);
-    const page = Math.floor(Math.random() * noOfPages) + 1;
-
-    const {
-      data: followers,
-    } = await octokit.rest.users.listFollowersForAuthenticatedUser({
-      per_page: itemsPerPage,
-      page,
-    });
-
-    const shuffledFollowers = [...followers].sort(() => 0.5 - Math.random());
-    const selected = shuffledFollowers.slice(0, 8).map((item) => {
-      return {
-        profilePicture: `<img src="${item.avatar_url}" width="100" height="100" />`,
-        profileUrl: `[${item.login}](${item.html_url})`,
-      };
-    });
 
     const REPO_NAME = user.login;
 
@@ -110,11 +52,7 @@ async function run() {
         name: user.name,
         email: user.email,
       },
-      content: renderREADME(
-        `https://github.com/${user.login}?tab=followers`,
-        user.followers,
-        selected
-      ),
+      content: renderREADME(),
     });
   } catch (err) {
     core.setFailed(err);
