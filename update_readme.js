@@ -78,7 +78,7 @@ async function run() {
 
     const {
       data: followers,
-    } = await octokit.users.listFollowersForAuthenticatedUser({
+    } = await octokit.rest.users.listFollowersForAuthenticatedUser({
       per_page: itemsPerPage,
       page,
     });
@@ -95,12 +95,12 @@ async function run() {
 
     const {
       data: { sha },
-    } = await octokit.repos.getReadme({
+    } = await octokit.rest.repos.getReadme({
       owner: user.login,
       repo: REPO_NAME,
     });
 
-    const { data } = await octokit.repos.createOrUpdateFileContents({
+    const { data } = await octokit.rest.repos.createOrUpdateFileContents({
       owner: user.login,
       repo: REPO_NAME,
       path: 'README.md',
